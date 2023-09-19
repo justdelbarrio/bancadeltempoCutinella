@@ -1,0 +1,16 @@
+C:\Users\Tomas Fregno\source\repos\bancadeltempoCutinella\bancadeltempoCutinella\bin\Debug\bancadeltempoCutinella.exe.config
+C:\Users\Tomas Fregno\source\repos\bancadeltempoCutinella\bancadeltempoCutinella\bin\Debug\bancadeltempoCutinella.exe
+C:\Users\Tomas Fregno\source\repos\bancadeltempoCutinella\bancadeltempoCutinella\bin\Debug\bancadeltempoCutinella.pdb
+C:\Users\Tomas Fregno\source\repos\bancadeltempoCutinella\bancadeltempoCutinella\bin\Debug\Newtonsoft.Json.Bson.dll
+C:\Users\Tomas Fregno\source\repos\bancadeltempoCutinella\bancadeltempoCutinella\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Tomas Fregno\source\repos\bancadeltempoCutinella\bancadeltempoCutinella\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Tomas Fregno\source\repos\bancadeltempoCutinella\bancadeltempoCutinella\bin\Debug\Newtonsoft.Json.Bson.pdb
+C:\Users\Tomas Fregno\source\repos\bancadeltempoCutinella\bancadeltempoCutinella\bin\Debug\Newtonsoft.Json.Bson.xml
+C:\Users\Tomas Fregno\source\repos\bancadeltempoCutinella\bancadeltempoCutinella\obj\Debug\bancadeltempoCutinella.csproj.AssemblyReference.cache
+C:\Users\Tomas Fregno\source\repos\bancadeltempoCutinella\bancadeltempoCutinella\obj\Debug\bancadeltempoCutinella.Properties.Resources.resources
+C:\Users\Tomas Fregno\source\repos\bancadeltempoCutinella\bancadeltempoCutinella\obj\Debug\bancadeltempoCutinella.csproj.GenerateResource.cache
+C:\Users\Tomas Fregno\source\repos\bancadeltempoCutinella\bancadeltempoCutinella\obj\Debug\bancadeltempoCutinella.csproj.CoreCompileInputs.cache
+C:\Users\Tomas Fregno\source\repos\bancadeltempoCutinella\bancadeltempoCutinella\obj\Debug\bancadeltempoCutinella.csproj.CopyComplete
+C:\Users\Tomas Fregno\source\repos\bancadeltempoCutinella\bancadeltempoCutinella\obj\Debug\bancadeltempoCutinella.exe
+C:\Users\Tomas Fregno\source\repos\bancadeltempoCutinella\bancadeltempoCutinella\obj\Debug\bancadeltempoCutinella.pdb
+C:\Users\Tomas Fregno\source\repos\bancadeltempoCutinella\bancadeltempoCutinella\obj\Debug\bancadeltempoCutinella.Form1.resources
